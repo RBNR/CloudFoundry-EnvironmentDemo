@@ -1,7 +1,7 @@
 package com.gopivotal.cf.workshop;
 
 import org.springframework.boot.SpringApplication;
-import all;
+import all-robert;
 
 /**
  * Used to initialize the app when packaged as a JAR
